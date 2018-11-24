@@ -1,0 +1,98 @@
+[
+  {
+    "id": 25399,
+    "name": "iPad Pro（10.5寸）",
+    "avgPrice": 4110,
+    "imgUrl": null
+  },
+  {
+    "id": 9640,
+    "name": "iPad Mini2",
+    "avgPrice": 990,
+    "imgUrl": null
+  },
+  {
+    "id": 17853,
+    "name": "iPad mini4",
+    "avgPrice": 2525,
+    "imgUrl": null
+  },
+  {
+    "id": 26470,
+    "name": "iPad 2018年新款 9.7英寸",
+    "avgPrice": 2370,
+    "imgUrl": null
+  },
+  {
+    "id": 17882,
+    "name": "iPad Pro",
+    "avgPrice": 3490,
+    "imgUrl": null
+  },
+  {
+    "id": 15145,
+    "name": "iPad Air2",
+    "avgPrice": 1825,
+    "imgUrl": null
+  },
+  {
+    "id": 24505,
+    "name": "iPad 5代 2017款（9.7英寸）",
+    "avgPrice": 2080,
+    "imgUrl": null
+  },
+  {
+    "id": 9641,
+    "name": "iPad Air",
+    "avgPrice": 1135,
+    "imgUrl": null
+  },
+  {
+    "id": 8757,
+    "name": "iPad Mini",
+    "avgPrice": 510,
+    "imgUrl": null
+  },
+  {
+    "id": 25471,
+    "name": "iPad Pro（12.9寸2017年新款） ",
+    "avgPrice": 4935,
+    "imgUrl": null
+  },
+  {
+    "id": 15144,
+    "name": "iPad Mini3",
+    "avgPrice": 1315,
+    "imgUrl": null
+  },
+  {
+    "id": 7425,
+    "name": "iPad 2代",
+    "avgPrice": 555,
+    "imgUrl": null
+  },
+  {
+    "id": 9021,
+    "name": "iPad 4代 (Retina屏)",
+    "avgPrice": 755,
+    "imgUrl": null
+  },
+  {
+    "id": 8218,
+    "name": "iPad 3代（New iPad）",
+    "avgPrice": 460,
+    "imgUrl": null
+  },
+  {
+    "id": 27969,
+    "name": "iPad Pro 2018年新款",
+    "avgPrice": 6485,
+    "imgUrl": null
+  },
+  {
+    "id": 7424,
+    "name": "iPad 1代",
+    "avgPrice": 95,
+    "imgUrl": null
+  }
+]

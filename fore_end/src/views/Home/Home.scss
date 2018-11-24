@@ -1,0 +1,144 @@
+.home{
+    .title{
+        height: 0.44rem;
+        // border: 1px solid red;
+        margin:0.08rem 0.1rem 0 0.1rem;
+        align-items: center;
+        display: flex;
+        justify-content: space-between;
+        font-size: 0.14rem;
+        .title_Left{
+            display: flex;
+            a{
+                color: #111;
+            }
+        }
+        .titile_Right{
+            display: flex;
+            font-size: .14rem;
+            .a_left{
+                display: block;
+                margin-right: .1rem;
+                color: #111;
+                .icon-search{
+                    font-size: .18rem;
+                }
+            }
+            .a_right{
+                display: block;
+                margin-right: .05rem;
+                color: #111;
+                .icon-gouwuche{
+                    font-size: .18rem;
+                }
+            }
+        }
+    }
+    .lunBo{
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem;
+    }
+    .part_img{
+        height: 0.59rem;
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .banner{
+        // height: 0.82rem;
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem;
+        ul{
+            display: flex;
+            justify-content: space-around;
+            text-align: center;
+            a{
+                color: #666;
+                img{
+                    width: 0.62rem;
+                    display: block;
+                }
+            }
+            
+        }
+    }
+    .gu{
+        height: 0.76rem;
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem; 
+        img{
+            width: 100%;
+        }
+    }
+    .Hui{
+        height: 0.9rem;
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem; 
+        img{
+            width: 100%;
+        }
+    }
+    .two_Pic{
+        display: flex;
+        height: 0.98rem;
+        border-top: 0;
+        margin:0.14rem .14rem .1rem;
+        justify-content: space-between;
+        .Tow_Left{
+            display: block;
+            width: 50%;
+            margin-right: 0.1rem;
+        }
+        .Tow_Right{
+            display: block;
+            width: 50%;
+        }
+        img{
+            width: 100%;
+            display: block;
+        }
+    }
+    .ch{
+        height: 0.45rem;
+        border-top: 0;
+        margin:0 0.1rem 0 0.1rem; 
+        img{
+            width: 100%;
+        }
+    }
+    .Price{
+        height: 1.37rem;
+        margin:0.14rem .14rem .1rem;
+        ul{
+            display: flex;
+            justify-content: space-around;
+            img{
+                width: 100%;
+            }
+        }
+    }
+    .toutiao{
+        height: 0.3rem;
+        margin:0.14rem .14rem .1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .yello{
+        height: 0.99rem;
+        margin:0.14rem .14rem .1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .last{
+        height: 2.33rem;
+        margin:0.14rem .14rem .1rem;
+        margin-bottom: 0.5rem; 
+        img{
+            width: 100%;
+        }
+    }
+}

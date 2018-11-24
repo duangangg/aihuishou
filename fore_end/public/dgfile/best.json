@@ -1,0 +1,110 @@
+{
+	"totalCount": 0,
+	"pageIndex": 0,
+	"pageSize": 20,
+	"data": [
+		{
+			"id": 23423,
+			"name": "苹果 iPhone 7 Plus",
+			"avgPrice": 4610,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28ef0d575a970000000039.png"
+		}, {
+			"id": 25827,
+			"name": "苹果 iPhone X",
+			"avgPrice": 6545,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28b40bc60057c40a000005.png"
+		}, {
+			"id": 25680,
+			"name": "苹果 iPhone 8 Plus",
+			"avgPrice": 5505,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28eed8575a970000000031.png"
+		}, {
+			"id": 23422,
+			"name": "苹果 iPhone 7",
+			"avgPrice": 3730,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28ef07b1d1b4e01f000011.png"
+		}, {
+			"id": 17752,
+			"name": "苹果 iPhone 6S Plus",
+			"avgPrice": 2930,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28b479c60057c40a000019.png"
+		}, {
+			"id": 17726,
+			"name": "苹果 iPhone 6S",
+			"avgPrice": 1745,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28b481c60057c40a00001d.png"
+		}, {
+			"id": 25679,
+			"name": "苹果 iPhone 8",
+			"avgPrice": 4775,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28b433575a970000000011.png"
+		}, {
+			"id": 17461,
+			"name": "苹果 iPhone 6",
+			"avgPrice": 1375,
+			"imgUrl": "https://sr.aihuishou.com/image/5a2de81330964b9811000001.png"
+		}, {
+			"id": 17462,
+			"name": "苹果 iPhone 6 Plus",
+			"avgPrice": 1495,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28b493c60057c40a000021.png"
+		}, {
+			"id": 26536,
+			"name": "华为 P20 Pro",
+			"avgPrice": 4510,
+			"imgUrl": "https://sr.aihuishou.com/image/5acf269e31a0cc0000000017.png"
+		}, {
+			"id": 27640,
+			"name": "苹果 iPhone XS Max",
+			"avgPrice": 9650,
+			"imgUrl": "https://sr.aihuishou.com/image/5ba3685de38bb01c30000054.png"
+		}, {
+			"id": 26912,
+			"name": "小米手机8",
+			"avgPrice": 2360,
+			"imgUrl": "https://sr.aihuishou.com/image/5b10bbd6c9f2b83c09000001.png"
+		}, {
+			"id": 26063,
+			"name": "美图V6",
+			"avgPrice": 2055,
+			"imgUrl": "https://sr.aihuishou.com/image/5a671587cb78bb0000000045.png"
+		}, {
+			"id": 26464,
+			"name": "华为 P20",
+			"avgPrice": 3515,
+			"imgUrl": "https://sr.aihuishou.com/image/5abc4532da24282018000001.png"
+		}, {
+			"id": 24799,
+			"name": "小米手机 6",
+			"avgPrice": 1540,
+			"imgUrl": "https://sr.aihuishou.com/image/5a338bd510a81c00000001d1.png"
+		}, {
+			"id": 25040,
+			"name": "三星 Galaxy S8+",
+			"avgPrice": 2705,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28ca1f575a970000000025.png"
+		}, {
+			"id": 26512,
+			"name": "小米 MIX2S",
+			"avgPrice": 2520,
+			"imgUrl": "https://sr.aihuishou.com/image/5ac9d909e6657c0000000005.png"
+		}, {
+			"id": 25998,
+			"name": "华为 Mate10 Pro",
+			"avgPrice": 2700,
+			"imgUrl": "https://sr.aihuishou.com/image/5a315062a255136011000015.png"
+		}, {
+			"id": 24966,
+			"name": "三星 Galaxy S8",
+			"avgPrice": 2135,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28ca50b1d1b4e01f000005.png"
+		}, {
+			"id": 19534,
+			"name": "三星 Galaxy S7 edge",
+			"avgPrice": 1250,
+			"imgUrl": "https://sr.aihuishou.com/image/5a28c309b1d1b4e01f000001.png"
+		}
+	],
+	"code": 0,
+	"msg": null
+}

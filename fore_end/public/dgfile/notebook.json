@@ -1,0 +1,110 @@
+{
+	"totalCount": 0,
+	"pageIndex": 0,
+	"pageSize": 20,
+	"data": [
+		{
+			"id": 25220,
+			"name": "苹果 17年 13寸 MacBook Pro",
+			"avgPrice": 12075,
+			"imgUrl": "https://sr.aihuishou.com/image/5a27e5e82849a80000000009.png"
+		}, {
+			"id": 25219,
+			"name": "苹果 17年 13寸 MacBook Air",
+			"avgPrice": 5870,
+			"imgUrl": "https://sr.aihuishou.com/image/5942453c543b4c000000000d.png"
+		}, {
+			"id": 17718,
+			"name": "苹果 15年 13寸 MacBook Air",
+			"avgPrice": 4890,
+			"imgUrl": "https://sr.aihuishou.com/image/55e5c36744018e60300000af.png"
+		}, {
+			"id": 25226,
+			"name": "苹果 17年 15寸 MacBook Pro",
+			"avgPrice": 16955,
+			"imgUrl": "https://sr.aihuishou.com/image/594275e0e329db1824000001.png"
+		}, {
+			"id": 17707,
+			"name": "苹果 15年 13寸 MacBook Pro",
+			"avgPrice": 6105,
+			"imgUrl": "https://sr.aihuishou.com/image/55ded65acffa20fc150003e8.png"
+		}, {
+			"id": 25260,
+			"name": "微软 Surface Pro 第五代（M1796）",
+			"avgPrice": 10030,
+			"imgUrl": "https://sr.aihuishou.com/image/5948a03ef70cc50000000009.png"
+		}, {
+			"id": 17708,
+			"name": "苹果 15年 15寸 MacBook Pro",
+			"avgPrice": 8740,
+			"imgUrl": "https://sr.aihuishou.com/image/55ded662b099c978190002ee.png"
+		}, {
+			"id": 17719,
+			"name": "苹果 15年 11寸 MacBook Air",
+			"avgPrice": 4305,
+			"imgUrl": "https://sr.aihuishou.com/image/55e5c45544018e60300000b3.png"
+		}, {
+			"id": 26691,
+			"name": "小米游戏本 15.6寸",
+			"avgPrice": 6330,
+			"imgUrl": "https://sr.aihuishou.com/image/5ae3d59f6b53e60000000009.png"
+		}, {
+			"id": 24008,
+			"name": "微软 Surface Pro 4",
+			"avgPrice": 5880,
+			"imgUrl": "https://sr.aihuishou.com/image/586623a3bdc751ac32000015.png"
+		}, {
+			"id": 17717,
+			"name": "苹果 15年 12寸 MacBook",
+			"avgPrice": 4435,
+			"imgUrl": "https://sr.aihuishou.com/image/55e5c0fe56da196c31000447.png"
+		}, {
+			"id": 17720,
+			"name": "苹果 13年 13寸 MacBook Pro",
+			"avgPrice": 5220,
+			"imgUrl": "https://sr.aihuishou.com/image/55e5c84a44018e60300000b7.png"
+		}, {
+			"id": 17984,
+			"name": "苹果 13年 13寸 MacBook Air",
+			"avgPrice": 3355,
+			"imgUrl": "https://sr.aihuishou.com/image/58f9bfd2821580c026000015.png"
+		}, {
+			"id": 8897,
+			"name": "联想ThinkPad X1 Carbon 系列",
+			"avgPrice": 8065,
+			"imgUrl": "https://sr.aihuishou.com/image/54a79975c21f99c4150000a2.png"
+		}, {
+			"id": 24208,
+			"name": "联想 Rescuer拯救者R720 系列",
+			"avgPrice": 5410,
+			"imgUrl": "https://sr.aihuishou.com/image/589d3c02037589b441000005.png"
+		}, {
+			"id": 8845,
+			"name": "苹果 14年 13寸 MacBook Pro",
+			"avgPrice": 5465,
+			"imgUrl": "https://sr.aihuishou.com/image/549bed15011d4c342f0000ca.png"
+		}, {
+			"id": 17985,
+			"name": "苹果 14年 13寸 MacBook Air",
+			"avgPrice": 4175,
+			"imgUrl": "https://sr.aihuishou.com/image/567a46789402620000000284.png"
+		}, {
+			"id": 26778,
+			"name": "华为 MateBook X Pro 系列",
+			"avgPrice": 7835,
+			"imgUrl": "https://sr.aihuishou.com/image/5afd2793709907f41c000005.png"
+		}, {
+			"id": 24520,
+			"name": "小米笔记本Air 12.5寸 经典版",
+			"avgPrice": 2705,
+			"imgUrl": "https://sr.aihuishou.com/image/58e61f028f16ac882a000001.png"
+		}, {
+			"id": 10139,
+			"name": "Alienware 17",
+			"avgPrice": 17215,
+			"imgUrl": "https://sr.aihuishou.com/image/54af5099319f08f81700011b.png"
+		}
+	],
+	"code": 0,
+	"msg": null
+}

@@ -1,0 +1,115 @@
+#root {
+  overflow: hidden;
+  .category_header {
+    width: 3.65rem;
+    height: .30rem;
+    display: flex;
+    padding: .07rem 0;
+    padding-right: .25rem;
+    justify-content: space-between;
+    border-bottom: 2px #FAFAFA solid;
+    i {
+      display: inline-block;
+      width: .5rem;
+      height: 100%;
+      font-size: .25rem;
+      text-align: center;
+      line-height: .3rem;
+      color: #000;
+    }
+    .search {
+      width: 2.83rem;
+      height: .16rem;
+      padding: .07rem 0;
+      padding-left: .17rem;
+      border-radius: .12rem;
+      background: #FCFCFF;
+      display: flex;
+      justify-content: space-between;
+      span {
+        margin-right: .08rem;
+        color: #000;
+        font-weight: bold;
+        display: inline-block;
+        width: .16rem;
+      }
+      input {
+        height: .16rem;
+        border: 0;
+        background: #FCFCFF;
+        width: 100%;
+      }
+    }
+  }
+  .category_main {
+    width: 3.75rem;
+    .category_main_hd {
+      width: 3.65rem;
+      display: flex;
+      justify-content: space-between;
+      font-size: .14rem;
+      color: #999;
+      // height: .43rem;
+      border-bottom: 1px #F3F3F4 solid;
+      padding: 0 .05rem;
+      li {
+        padding: .14rem 0 .08rem;
+        font-size: .14rem;
+        line-height: .21rem;
+        text-align: center;
+        flex: 1;
+        a {
+          color: #999;
+        }
+        .yellow {
+          border-bottom: 3px #FFEA6E solid;
+          color: #000;
+          font-size: .16rem;
+          font-weight: bold;
+        }
+      }
+    }
+    .sub {
+      display: flex;
+      font-size: .14rem;
+      .sub_titles {
+        overflow: auto;
+        height: 5.79rem;
+        width: 1rem!important;
+        ul {
+          li {
+            text-align: center;
+            height: .55rem;
+            line-height: .55rem;
+            // border-left: .06rem #fff solid;
+            border-right: 1px #E5E5E5 solid;
+            border-bottom: 1px #E5E5E5 solid;
+          }
+        }
+      }
+      .sub_main {
+        overflow: auto;
+        background: #F9FAFF;
+        height: 5.79rem;
+        width: 100%;
+        ul {
+          li {
+            height: .21rem;
+            border-bottom: 1px #F2F2F4 solid;
+            padding: .17rem 0;
+            padding-left: .13rem;
+            font-size: .14rem;
+            line-height: .16rem;
+            .sub_num {
+              margin-right: .1rem;
+              width: .2rem;
+              height: .16rem;
+              display: inline-block;
+
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+.g-step{
+  // margin-top: .44rem;
+  display: flex;
+  padding-bottom: .1rem;
+  margin-bottom: .2rem;
+  font-size: .14rem;
+  .item{
+    height: .5rem;
+    padding: .1rem 0 0;
+    flex: 1;
+    text-align: center;
+    .line{
+      display:block;
+      position: relative;
+      &::before,&::after{
+        content: "";
+        position: absolute;
+        height: 1px;
+        width: 50%;
+        background: #ccc;
+        top: .07rem;
+      }
+      &::before{
+        left: 0;
+      }
+      &::after{
+        right: 0;
+      }
+      .index{
+        width: .14rem;
+        font-size: .1rem;
+        width: .14rem;
+        height: .14rem;
+        display: block;
+        text-align: center;
+        z-index: 10;
+        position: relative;
+        margin: 0 auto;
+        border: .01rem solid #fbec53;
+        border-radius: .07rem;
+      }
+    }
+    .text{
+      font-size: .12rem;
+      padding: .05rem 0 0;
+      display: block;
+    }
+  }
+
+  .past{
+    .line{
+      .index{
+      background: url(../../style/img/yellowcows.png) no-repeat center center;
+      text-indent: -9999px;
+      }
+      &::before{
+        left: 0;
+        background: none;
+      }
+    }
+
+  }
+  .future{
+
+    .index{
+      border: .01rem solid #ccc;
+      background: #ccc;
+    }
+    .text{
+      color:#ccc;
+    }
+  }
+}
+

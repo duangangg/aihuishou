@@ -1,0 +1,37 @@
+.mine {
+  height: .44rem;
+  border-bottom: 2px #F9F9F9 solid;
+  text-align: center;
+  position: relative;
+  h2 {
+    display: inline-block;
+    width: .36rem;
+    font-size: .18rem;
+    font-weight: normal;
+    line-height: .44rem;
+  }
+  i {
+    position: absolute;
+    top: .1rem;
+    right: .18rem;
+    font-size: .3rem;
+  }
+}
+.mine_top {
+  height: .41rem;
+  display: flex;
+  justify-content: space-between;
+  padding: .15rem 0 .2rem .14rem;
+  border-bottom: 1px #F3F5F5 solid;
+  .user {
+    display: flex;
+    justify-content: space-between;
+    img {
+      width: .48rem;
+      height: .48rem;
+    }
+  }
+}
+.my_account {
+
+}

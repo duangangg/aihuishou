@@ -1,0 +1,110 @@
+{
+	"totalCount": 0,
+	"pageIndex": 0,
+	"pageSize": 20,
+	"data": [
+		{
+			"id": 26470,
+			"name": "iPad 2018年新款 9.7英寸",
+			"avgPrice": 2370,
+			"imgUrl": "https://sr.aihuishou.com/image/5abde072e67ccd000000000d.png"
+		}, {
+			"id": 9640,
+			"name": "iPad Mini2",
+			"avgPrice": 990,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee76ea531f980b000055.png"
+		}, {
+			"id": 25399,
+			"name": "iPad Pro（10.5寸）",
+			"avgPrice": 4110,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31eedb5171350000000263.png"
+		}, {
+			"id": 17853,
+			"name": "iPad mini4",
+			"avgPrice": 2525,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee96ea531f980b000065.png"
+		}, {
+			"id": 17882,
+			"name": "iPad Pro",
+			"avgPrice": 3490,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31eeef5171350000000273.png"
+		}, {
+			"id": 24505,
+			"name": "iPad 5代 2017款（9.7英寸）",
+			"avgPrice": 2080,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ed815171350000000217.png"
+		}, {
+			"id": 25260,
+			"name": "微软 Surface Pro 第五代（M1796）",
+			"avgPrice": 10030,
+			"imgUrl": "https://sr.aihuishou.com/image/5948a03ef70cc50000000009.png"
+		}, {
+			"id": 15145,
+			"name": "iPad Air2",
+			"avgPrice": 1825,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31eea25171350000000257.png"
+		}, {
+			"id": 9641,
+			"name": "iPad Air",
+			"avgPrice": 1135,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee57ea531f980b00004d.png"
+		}, {
+			"id": 24008,
+			"name": "微软 Surface Pro 4",
+			"avgPrice": 5880,
+			"imgUrl": "https://sr.aihuishou.com/image/586623a3bdc751ac32000015.png"
+		}, {
+			"id": 8757,
+			"name": "iPad Mini",
+			"avgPrice": 510,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee33ea531f980b000041.png"
+		}, {
+			"id": 25471,
+			"name": "iPad Pro（12.9寸2017年新款） ",
+			"avgPrice": 4935,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31eee4517135000000026b.png"
+		}, {
+			"id": 27106,
+			"name": "小米平板4",
+			"avgPrice": 815,
+			"imgUrl": "https://sr.aihuishou.com/image/5b31af7cb65fa20000000001.png"
+		}, {
+			"id": 23601,
+			"name": "华为平板 M3",
+			"avgPrice": 1020,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31f1a051713500000002cb.png"
+		}, {
+			"id": 26549,
+			"name": "华为平板 M5",
+			"avgPrice": 1745,
+			"imgUrl": "https://sr.aihuishou.com/image/5ad591bc2a595b0000000001.png"
+		}, {
+			"id": 7425,
+			"name": "iPad 2代",
+			"avgPrice": 555,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee2a517135000000023b.png"
+		}, {
+			"id": 15144,
+			"name": "iPad Mini3",
+			"avgPrice": 1315,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee8cea531f980b000061.png"
+		}, {
+			"id": 26460,
+			"name": "微软 Surface Book 2 13.5寸",
+			"avgPrice": 12030,
+			"imgUrl": "https://sr.aihuishou.com/image/5abb5b68fdceae00000001be.png"
+		}, {
+			"id": 9021,
+			"name": "iPad 4代 (Retina屏)",
+			"avgPrice": 755,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee7b517135000000024b.png"
+		}, {
+			"id": 8218,
+			"name": "iPad 3代（New iPad）",
+			"avgPrice": 460,
+			"imgUrl": "https://sr.aihuishou.com/image/5a31ee25ea531f980b000039.png"
+		}
+	],
+	"code": 0,
+	"msg": null
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="fanhui" unicode="&#58882;" d="M738.145103 725.751172 663.234207 800.662069 313.114483 450.542345 312.937931 450.701241 238.768552 376.549517 238.945103 376.372966 238.768552 376.214069 313.679448 301.303172 313.838345 301.462069 658.996966-43.696552 733.166345 30.490483 388.007724 375.631448Z"  horiz-adv-x="1024" />
+
+    
+    <glyph glyph-name="sousuo" unicode="&#58929;" d="M630.19942 187.025836a393.873723 393.873723 0 1 0 78.774744 78.774744L1024-49.225255 945.225255-128 630.19942 187.025836z m-236.324234 0a315.098978 315.098978 0 1 1 0 630.197957 315.098978 315.098978 0 0 1 0-630.124815z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

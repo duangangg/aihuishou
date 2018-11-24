@@ -1,0 +1,30 @@
+.footer{
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background:#fff;
+    ul{
+        padding-top: 0.05rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        align-content: center;
+        li{
+           text-align: center;
+           
+           a{
+               color: lightgray;
+           }
+           .icon-home{
+               font-size: 0.20rem;
+           }
+           .icon-ai-phone{
+                font-size: 0.20rem;
+           }
+           .icon-My{
+                font-size: 0.20rem;
+           }
+        }
+    }
+}

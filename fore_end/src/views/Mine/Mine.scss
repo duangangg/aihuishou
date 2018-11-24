@@ -1,0 +1,158 @@
+.mine{
+    .title{
+        height: 0.44rem;
+        text-align: center;
+        display: flex;
+        margin: 0 0.1rem;
+        line-height: 0.44rem;
+        font-size: 0.18rem;
+        color: #666;
+        justify-content: space-between;
+        p{
+            padding-left: 45%;
+        }
+        .icon-gouwuche{
+            font-size: 0.2rem;
+            color: #000;
+        }
+    }
+    .login{
+        display: flex;
+        justify-content: space-between;
+        margin: 0 0.1rem;
+        align-items: center;
+        .login_Left{
+            display: flex;
+            margin-top: 0.1rem;
+            line-height: 0.48rem;
+            .ing{
+                height: 0.48rem;
+                width: 0.48rem;
+                border-radius: 50%;
+                text-align: center;
+                .icon-touxiang{
+                    font-size: 0.5rem;
+                }
+            }
+            a{
+                display: block;
+                margin-left: 0.1rem;
+                font-size: .18rem;
+                font-weight: 700;
+            }
+        }
+        .login_Right{
+            border-radius: 20% 0 0 20%;
+            background: #ffd629;
+            height: 0.24rem;
+            font-size: .12rem;
+            color: #111;
+            line-height: 0.24rem;
+            .icon-shezhi{
+                font-size: 0.12rem;
+                padding-right: 0.05rem;
+            }
+            .icon-jiantou1{
+                font-size: 0.12rem;
+                padding-left: 0.05rem;
+            }
+        }
+    }
+    .OtherInfo{
+        margin: 0 0.1rem;
+        margin-top: 0.1rem;
+        ul{
+            display: flex;
+            text-align: center;
+            width: 100%;
+            justify-content: space-around;
+            li{
+                height: 0.79rem;
+                padding-top: 0.1rem;
+                .icon-yinxingqia{
+                    font-size: 0.3rem;
+                }
+                .icon-quan{
+                    font-size: 0.3rem;
+                }
+                .icon-yue{
+                    font-size: 0.3rem;
+                }
+                p{
+                    display: block;
+                    height: 0.2rem;
+                    color: #111;
+                    font-size: .14rem;
+                }
+                span{
+                    color: #999;
+                    font-size: .12rem;
+                }
+            }
+        }
+    }
+    .order{
+        display: flex;
+        justify-content: space-between;
+        margin: 0 0.1rem;
+        height: 0.62rem;
+        line-height: 0.62rem;
+        box-shadow: 0 0 0.24rem 0 rgba(0,0,0,.06);
+        margin-top: 0.1rem;
+        p{
+            color: #111;
+            font-size: .16rem;
+            box-sizing: border-box;
+            padding-left: 0.12rem;
+            font-weight: 700;
+            box-sizing: border-box;
+        }
+        a{
+            display: block;
+            display: flex;
+            width: 0.8rem;
+        }
+    }
+    .server{
+        margin: 0 0.1rem;
+        margin-top: 0.1rem;
+        .Oth-Server{
+            font-size: 0.18rem;
+            font-weight: 700;
+        }
+        ul{
+            display: flex;
+            text-align: center;
+            height: 1.83rem;
+            margin-top: 0.2rem;
+            justify-content: space-around;
+            i{
+                display: block;
+                height: 0.55rem;
+                line-height: 0.55rem;
+            }
+            .icon-liwu{
+                font-size: 0.3rem;
+                color: #f9548d;
+            }
+            .icon-home{
+                font-size: 0.3rem;
+                color: #ff6d1a;
+            }
+            .icon-xunhuan{
+                font-size: 0.3rem;
+                color: #13bf84;
+            }
+            .icon-dingdan{
+                font-size: 0.3rem;
+                color: #00cbd5;
+            }
+            p{
+                color: #666;
+                font-size: .14rem;
+                font-weight: 400;
+                height: 0.18rem;
+            }
+        }
+    }
+}

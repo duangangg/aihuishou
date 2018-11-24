@@ -1,0 +1,122 @@
+[
+  {
+    "id": 23423,
+    "name": "苹果 iPhone 7 Plus",
+    "avgPrice": 4610,
+    "imgUrl": null
+  },
+  {
+    "id": 25827,
+    "name": "苹果 iPhone X",
+    "avgPrice": 6545,
+    "imgUrl": null
+  },
+  {
+    "id": 25680,
+    "name": "苹果 iPhone 8 Plus",
+    "avgPrice": 5505,
+    "imgUrl": null
+  },
+  {
+    "id": 23422,
+    "name": "苹果 iPhone 7",
+    "avgPrice": 3730,
+    "imgUrl": null
+  },
+  {
+    "id": 17752,
+    "name": "苹果 iPhone 6S Plus",
+    "avgPrice": 2930,
+    "imgUrl": null
+  },
+  {
+    "id": 17726,
+    "name": "苹果 iPhone 6S",
+    "avgPrice": 1745,
+    "imgUrl": null
+  },
+  {
+    "id": 25679,
+    "name": "苹果 iPhone 8",
+    "avgPrice": 4775,
+    "imgUrl": null
+  },
+  {
+    "id": 17461,
+    "name": "苹果 iPhone 6",
+    "avgPrice": 1375,
+    "imgUrl": null
+  },
+  {
+    "id": 17462,
+    "name": "苹果 iPhone 6 Plus",
+    "avgPrice": 1495,
+    "imgUrl": null
+  },
+  {
+    "id": 27640,
+    "name": "苹果 iPhone XS Max",
+    "avgPrice": 9650,
+    "imgUrl": null
+  },
+  {
+    "id": 27639,
+    "name": "苹果 iPhone XS",
+    "avgPrice": 9175,
+    "imgUrl": null
+  },
+  {
+    "id": 20079,
+    "name": "苹果 iPhone SE",
+    "avgPrice": 1655,
+    "imgUrl": null
+  },
+  {
+    "id": 17458,
+    "name": "苹果 iPhone 5S",
+    "avgPrice": 570,
+    "imgUrl": null
+  },
+  {
+    "id": 27637,
+    "name": "苹果 iPhone XR",
+    "avgPrice": 0,
+    "imgUrl": null
+  },
+  {
+    "id": 17457,
+    "name": "苹果 iPhone 5",
+    "avgPrice": 145,
+    "imgUrl": null
+  },
+  {
+    "id": 17459,
+    "name": "苹果 iPhone 5C",
+    "avgPrice": 190,
+    "imgUrl": null
+  },
+  {
+    "id": 17460,
+    "name": "苹果 iPhone 4S",
+    "avgPrice": 100,
+    "imgUrl": null
+  },
+  {
+    "id": 2246,
+    "name": "苹果 iPhone 3G",
+    "avgPrice": 5,
+    "imgUrl": null
+  },
+  {
+    "id": 17455,
+    "name": "苹果 iPhone 4",
+    "avgPrice": 30,
+    "imgUrl": null
+  },
+  {
+    "id": 2247,
+    "name": "苹果 iPhone 3GS",
+    "avgPrice": 5,
+    "imgUrl": null
+  }
+]

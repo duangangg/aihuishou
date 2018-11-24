@@ -1,0 +1,128 @@
+.infor{
+    .title{
+        height: 0.44rem;
+        text-align: center;
+        line-height: 0.44rem;
+        font-size: 0.18rem;
+    }
+    .lunbo{
+        height: 1.2rem;
+        margin: 0 0.1rem;
+        .sameUl{
+            display: flex;
+            width: 355px;
+            img{
+                width: 100%;
+            }
+        }
+    }
+    .xianshi{
+        margin: 0 0.1rem;
+        height: 0.7rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .double{
+        height: 1.69rem;
+        margin: 0 0.1rem;
+        margin-top: 0.1rem;
+        ul{
+            display: flex;
+            align-content: center;
+            li{
+                width: 50%;
+                text-align: center;
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+    .more{
+        margin: 0 0.1rem;
+        height: 0.35rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .change{
+        margin-top: 0.1rem;
+        height: 0.52rem;
+        img{
+            width: 100%;
+        }
+    }
+    .item_Img{
+        margin: 0 0.1rem;
+        margin-top: 0.1rem;
+        ul{
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            align-content: center;
+            li{
+                width: 33%;
+                height: 1.37rem;
+                text-align: center;
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+    .activeIphone{
+        height: 0.44rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .text{
+        margin: 0 0.1rem;
+        margin-top: 0.1rem;
+        ul{
+            display: flex;
+            justify-content: space-between;
+            li{
+                height: 0.99rem;
+                text-align: center;
+                width: 49%;
+                img{
+                    width: 100%;
+                }
+            }
+        }
+    }
+    .Heart{
+        height: 0.44rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .Img_List{
+        height: 0.57rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .Huanxinliucheng{
+        height: 1.05rem;
+        margin-top: 0.1rem;
+        img{
+            width: 100%;
+        }
+    }
+    .notice{
+        height: 1.05rem;
+        margin-top: 0.1rem;
+        margin-bottom: 0.8rem;
+        img{
+            width: 100%;
+        }
+    }
+}

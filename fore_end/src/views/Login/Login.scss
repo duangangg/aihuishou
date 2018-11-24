@@ -1,0 +1,145 @@
+.wrapper{
+    height: 100%;
+    .login-contanier {
+        max-width: 750px;
+        min-width: 320px;
+        margin: 0 auto;
+        font-size: .14rem;
+        background: #fff;
+        background-color: #f9faff;
+        padding-top: .44rem;
+        .login-header {
+            font-size: .18rem;
+            color: #333;
+            position: fixed;
+            left: 0;
+            top: 0;
+            right: 0;
+            height: .44rem;
+            line-height: .44rem;
+            max-width: 750px;
+            margin: 0 auto;
+            z-index: 100;
+            text-align: center;
+            background-color: #fff;
+            -webkit-box-shadow: 0 0 0.1rem 0 rgba(0,0,0,.05);
+            box-shadow: 0 0 0.1rem 0 rgba(0,0,0,.05);
+            .back {
+                position: absolute;
+                left: 0;
+                top: 0;
+                width: .5rem;
+                height: .44rem;
+                // background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAoCAMAAADT08pnAAAAP1BMV…zP9QTZEiQmNBFtRy4MCqP1Xfl96l1ThSvWAK7eqtH1dZ1vgBEQsMaM/J8AAAAASUVORK5CYII=) no-repeat 50%;
+                background-size: .12rem;
+                .icon-jiantou-copy{
+                    font-size: 0.16rem;
+                }
+            }
+            
+            .iconfont{
+              font-size: .3rem;
+            }
+        }
+    }
+
+    .content {
+        background-color: #fff;
+        padding-top: .1rem;
+        .tab {
+            width: 2.6rem;
+            height: .28rem;
+            border: .01rem solid #f9e72c;
+            border-radius: .28rem;
+            margin: 0 auto .1rem;
+            overflow: hidden;
+             span {
+                font-size: 0.14rem;
+                width: 100%;
+                float: left;
+                justify-content: center;
+                line-height: .28rem;
+                text-align: center;
+                border-radius: .28rem;
+                background: #f9e72c;
+            }
+        }
+
+        .input-contanier {
+            margin: 0 .14rem;
+            border-bottom: .01rem solid #eee;
+            position: relative;
+            .single-input {
+                height: .48rem;
+                background: #fff;
+                line-height: .32rem;
+                padding: .08rem 0;
+                 label {
+                    font-size: .14rem;
+                    color: #333;
+                    width: .73rem;
+                    margin-right: -.73rem;
+                    float: left;
+                }
+                .input-box {
+                    padding: 0 .2rem 0 .73rem;
+                    float: left;
+                    position: relative;
+                    line-height: .32rem;
+                    input {
+                        font-size: .14rem;
+                        border: none;
+                        padding: .05rem 0 .06rem;
+                        display: block;
+                        width: 100%;
+                        height: .32rem;
+                        outline: none;
+                    }
+                }
+            }
+        }
+            .tips {
+                font-size: .12rem;
+                color: #666;
+                padding: .15rem .14rem;
+                background-color: #f9faff;
+                a{
+                    color: #4a90e2;
+                }
+             }
+
+             .submit {
+                width: 342px;
+                font-size: .14rem;
+                color: #999;
+                display: block;
+                margin: 0 .14rem;
+                height: .38rem;
+                line-height: .36rem;
+                border-radius: .04rem;
+                background: #e6e6e6;
+                border: .01rem solid #e6e6e6;
+                text-align: center;
+                background: #dddb4b;
+                color:black;
+            }
+    }
+    .bottom-tip {
+        font-size: .12rem;
+        color: #666;
+        position: fixed;
+        bottom: 30px;
+        left: 50%;
+        -webkit-transform: translateX(-50%);
+        -ms-transform: translateX(-50%);
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+        max-width: 750px;
+        margin: 0 auto;
+        a {
+            text-decoration:underline;
+                color: #4a90e2;
+        }
+    }
+}
